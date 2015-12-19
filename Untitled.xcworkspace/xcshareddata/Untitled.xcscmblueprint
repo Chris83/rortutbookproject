@@ -1,0 +1,33 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3D04F9CD1898340E70B504A8E5DE882BE52C2660",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3D04F9CD1898340E70B504A8E5DE882BE52C2660" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0B3EFD35-DD57-4B2B-ACBE-76EBD2E3F1D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3D04F9CD1898340E70B504A8E5DE882BE52C2660" : "RoRTutorialBook\/RoRTutorialBook\/RoRTutorialBook\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Untitled",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Untitled.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Chris83\/rortutbookproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D04F9CD1898340E70B504A8E5DE882BE52C2660"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Chris83\/rortutbookproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D04F9CD1898340E70B504A8E5DE882BE52C2660"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Chris83\/rortutbookproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D04F9CD1898340E70B504A8E5DE882BE52C2660"
+    }
+  ]
+}
